@@ -1,3 +1,6 @@
+eggs/
+*.egg-info/
+*.egg
 tmp/
 notebooks/
 __pycache__/
